@@ -41,20 +41,26 @@ Esta creada por diversos estudios de diseño gráfico moderno que rinden homenaj
  
 # Reglas que gobiernan el sistema
 Detección: El programa siempre sabe dónde está el puntero.
+
 Acción: Al mover el mouse, se dibuja un círculo.
+
 Variación: Si el mouse se mueve en el eje X (horizontal), el color cambia; si se mueve en el eje Y (vertical), el tamaño cambia.
 
 # Explicación del sistema de interactividad
-Es un sistema de respuesta inmediata. No hay menús ni botones; la interacción es orgánica: el dibujo nace directamente de la trayectoria del mouse.
+Es un sistema de respuesta inmediata. El dibujo nace directamente de la trayectoria del mouse.
 
 # Datos de entrada (Inputs)
 Posición horizontal (mouseX).
+
 Posición vertical (mouseY).
 
 # Transformación y Proceso
-El código lee esas coordenadas y las convierte en valores de color (RGB) y diámetro. Básicamente, traduce "espacio" en "color".
+El código lee esas coordenadas y las convierte en valores de color (RGB) y diámetro.
 
 # Respuesta visual (Outputs)
 Cambios de color.
+
 Cambios en el tamaño.
 
+![<img width="1024" height="768" alt="INPUT (mouseX, mousey" src="https://github.com/user-attachments/assets/76c791f7-a595-4fdb-8a16-425615700feb" />
+]
