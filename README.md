@@ -6,8 +6,8 @@
 *BAUHAUS INTERACTIVO*
 
 
-![imagen] (<img width="466" height="700" alt="Copia de Bauhaus XI_20x30-1743091906222" src="https://github.com/user-attachments/assets/8a2f466d-f466-45bc-99af-9fe00de17c0e" />
-)
+![<img width="466" height="700" alt="Copia de Bauhaus XI_20x30-1743091906222" src="https://github.com/user-attachments/assets/8a2f466d-f466-45bc-99af-9fe00de17c0e" />
+]
 
 Es una reinterpretación contemporánea, autor desconocido.
 
@@ -42,9 +42,9 @@ Esta creada por diversos estudios de diseño gráfico moderno que rinden homenaj
 # Reglas que gobiernan el sistema
 Detección: El programa siempre sabe dónde está el puntero.
 
-Acción: Al mover el mouse, se dibuja un círculo.
+Acción: Al mover el mouse, el circulo cambia de tamaño y color.
 
-Variación: Si el mouse se mueve en el eje X (horizontal), el color cambia; si se mueve en el eje Y (vertical), el tamaño cambia.
+Variación: Si el mouse se mueve en el eje X (horizontal), el tamaño cambia; si se mueve en el eje Y (vertical), el color cambia.
 
 # Explicación del sistema de interactividad
 Es un sistema de respuesta inmediata. El dibujo nace directamente de la trayectoria del mouse.
